@@ -1,0 +1,10 @@
+- Create an interactive webpage to display flashcards for a new language needing to be learned 
+- These flash card will have a picture with the english word with a hide and show function
+- Users will press the show/hide button to diplay the answer
+
+! How to do it 
+
+- Write the HTML backbone
+- Style with CSS
+-Write the cose to hide/show answers
+-Apply to multiple cards.
